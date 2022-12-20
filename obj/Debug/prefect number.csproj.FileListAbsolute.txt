@@ -1,0 +1,7 @@
+F:\projects\prefect number\prefect number\bin\Debug\prefect number.exe.config
+F:\projects\prefect number\prefect number\bin\Debug\prefect number.exe
+F:\projects\prefect number\prefect number\bin\Debug\prefect number.pdb
+F:\projects\prefect number\prefect number\obj\Debug\prefect number.csprojAssemblyReference.cache
+F:\projects\prefect number\prefect number\obj\Debug\prefect number.csproj.CoreCompileInputs.cache
+F:\projects\prefect number\prefect number\obj\Debug\prefect number.exe
+F:\projects\prefect number\prefect number\obj\Debug\prefect number.pdb
